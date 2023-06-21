@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL_ShopProject", "ETL_ShopProject\ETL_ShopProject.dtproj", "{D14CB76E-61A0-4332-AE69-81DF3F30F3CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14CB76E-61A0-4332-AE69-81DF3F30F3CA}.Development|Default.ActiveCfg = Development
+		{D14CB76E-61A0-4332-AE69-81DF3F30F3CA}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1932E36C-1CF4-48E6-8BE9-67ED6793A967}
+	EndGlobalSection
+EndGlobal
